@@ -30,19 +30,17 @@
   	font-weight: 400;
   	font-style: normal;
 }
-
 	.lato-bold {
   	font-family: "Lato", sans-serif;
   	font-weight: 700;
   	font-style: normal;
 }
-
 	.seymour-one-regular {
   	font-family: "Seymour One", sans-serif;
   	font-weight: 400;
   	font-style: normal;
-}
 
+}
 
 }
 
@@ -163,7 +161,7 @@ dl, ol, main ul{
 
 dt{
 	/* make this font display in bold weight */
-	font-display: bold;
+	font-weight: bold;
 }
 
 dt::before{
